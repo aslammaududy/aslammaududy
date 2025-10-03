@@ -14,7 +14,7 @@ I'm passionate about building web applications that actually solve real-world pr
 <?php
 // My daily drivers
 $skills = [
-    'backend' => ['PHP', 'Laravel', 'MySQL', 'PostgreSQL'],
+    'backend' => ['PHP', 'Laravel', 'MySQL', 'PostgreSQL', 'Milvus', 'Generative AI'],
     'frontend' => ['Bootstrap', 'HTML/CSS', 'JavaScript'],
     'api' => ['REST API', 'JWT', 'OAuth'],
     'tools' => ['Git', 'Chrome DevTools', 'Queue Systems']
@@ -45,6 +45,12 @@ The project I'm most proud of - helping hospitals in Indonesia digitize their op
 - **Challenge solved**: Reduced patient data processing time by 60% through database optimization
 - **Tech**: Laravel, MySQL, Bootstrap, Queue Jobs
 - **Impact**: Serving thousands of patients daily
+
+### 📄 CV Checker  
+Automated CV evaluation system with rubric-based scoring and generative AI.  
+- **What it does**: Analyzes CV & project submissions against defined criteria using embeddings, vector search and generative AI.  
+- **Perfect for**: Quick candidate evaluation, hiring tests, or self-assessment  
+- [Explore the repo →](https://github.com/aslammaududy/cv-checker)
 
 ### 🚨 Emergency Call System  
 Because every second counts in emergencies.
